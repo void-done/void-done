@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 💫 About Me:
+# About Me:
 🎓 Final-year B.Tech IT student<br>🚀 Highly motivated and results-oriented<br>🖥️ Strong skills in Python, Cloud Technologies, Database Management, Networking, and MySQL<br>💡 Interested in software development and building real-world solutions<br>🔍 Seeking opportunities to apply technical skills and contribute to innovative projects
 
 
